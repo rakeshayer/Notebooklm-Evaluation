@@ -72,3 +72,14 @@ Using a document from a Cloud Platforms and Analytics course (Assignment 1 on cl
 - **Strengths**: Provides a structured framework for handling multiple documents, ideal for organizing extensive study materials.
 - **Weaknesses**: Students may rely too much on NotebookLM's summaries, potentially impacting critical reading skills.
 - **Effectiveness**: Excellent for content organization, but a full review of documents is recommended to ensure all relevant information is captured.
+
+## Screenshots
+
+### Summary Example
+![Summary Example](https://github.com/rakeshayer/Notebooklm-Evaluation/blob/main/summary.png?raw=true)
+
+### Suggested Questions Example
+![Suggested Questions Example](https://github.com/rakeshayer/Notebooklm-Evaluation/blob/main/suggested_questions.png?raw=true)
+
+### Contextual Responses Example
+![Contextual Responses Example](https://github.com/rakeshayer/Notebooklm-Evaluation/blob/main/contextual_responses.png?raw=true)
