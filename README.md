@@ -1,5 +1,3 @@
-# Notebooklm-Evaluation
-Evaluation of Google NotebookLM for Educational Use.
 # Evaluation of NotebookLM for Academic Use
 
 NotebookLM is a new AI-powered tool from Google designed to support students through improved analysis, contextual link exploration, and resource organization. This report evaluates the main features of NotebookLM and its potential use in an academic setting, particularly for university students.
